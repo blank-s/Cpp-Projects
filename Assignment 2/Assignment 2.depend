@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1562182872 source:d:\assignment 2\main.c
-	<stdio.h>
-
-1562314450 source:d:\fds\assignment 2\main.c
-	<stdio.h>
-	<stdlib.h>
-
